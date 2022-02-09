@@ -1,4 +1,6 @@
 
+import React from 'react'
+
 import { BrandName } from './brand-name'
 import { Mark } from './mark'
 
