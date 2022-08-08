@@ -24,8 +24,8 @@
   },
   "homepage": "https://github.com/flowlous/brand#readme",
   "peerDependencies": {
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react": "*",
+    "react-dom": "*"
   },
   "devDependencies": {
     "@babel/cli": "^7.16.0",
