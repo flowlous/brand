@@ -1,6 +1,6 @@
 {
   "name": "@flowlous/brand",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "flowlous brand components",
   "main": "dist/es/index.js",
   "files": [
